@@ -14,7 +14,7 @@ public class TrisExtension extends SFSExtension
 	private volatile boolean gameStarted;
 	private LastGameEndResponse lastGameEndResponse;
 	private int moveCount;
-	
+	int naveensdf;
 	private final String version = "1.0.5";
 	
 	@Override
